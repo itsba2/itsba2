@@ -7,5 +7,5 @@
 - 💪 I'm good at React
 - 🌱 I’m currently learning Angular and IFCjs
 - 👯 I’m looking to collaborate on creating web-based BIM appplications
-- 📫 How to reach me: [itsba2.github.io](itsba2.github.io)
+- 📫 How to reach me: [itsba2.github.io](https://itsba2.github.io/)
 
